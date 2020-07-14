@@ -1,0 +1,5 @@
+Hint 1 : 
+The tricky part is determining how the minute hand affects the position of the hour hand.
+
+Hint 2 : 
+Calculate the angles separately then find the difference.
