@@ -1,0 +1,10 @@
+Hint1
+
+This problem is equivalent to finding the topological order in a directed graph.
+If a cycle exists, no topological ordering exists and therefore it will be impossible to take all courses.
+
+Hint 2
+Topological sorting using DFS
+
+Hint 3
+Topological sorting via BFS
