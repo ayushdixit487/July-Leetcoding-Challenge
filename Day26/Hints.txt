@@ -1,0 +1,12 @@
+Hint 1 : 
+A naive implementation of the above process is trivial. Could you come up with other methods?
+
+Hint 2 : 
+What are all the possible results?
+
+Hint 3 : 
+How do they occur, periodically or randomly?
+
+Hint 4 :
+You may find this Wikipedia article useful.
+https://en.wikipedia.org/wiki/Digital_root
